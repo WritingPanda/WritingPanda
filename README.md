@@ -4,7 +4,7 @@
 
 ## Introduction. 
 
-I am a Principle Field Security Specialist at GitHub. Before that, I worked for Snyk, Cisco, Tenable, and other security companies as either a developer or a sales engineer.
+I am a Principal Field Security Specialist at GitHub. Before that, I worked for Snyk, Cisco, Tenable, and other security companies as either a developer or a sales engineer.
 
 I am based out of Texas. If you want to connect with me or learn more about me, please visit my [LinkedIn profile](https://www.linkedin.com/in/omarleonardoquimbaya/).
 
