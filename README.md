@@ -15,22 +15,6 @@ I am based out of Texas. If you want to connect with me or learn more about me, 
 - 💬 Ask me about python, security, the car market, electric cars, travel, board games, anime, mechanical keyboards, PC building, China, Chinese food, weight lifting, and pickleball.
 - 📫 How to reach me: reach out to me on LinkedIn, Discord, Slack, or BlueSky!
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I used to be a sumo wrestler, and I won second place in state-wide tournaments twice. 
-
-## How can we work together? 
-
-I am a collaborative person at heart. I don't believe great things happen because one person does all of the work; it takes a group of people to make a difference. 
-
-If you would like to work with me on a deal, speaking to internal GitHub employees, please answer these questions for me:
-
-1. How can I help?
-2. Where can I learn more?
-3. How do we win?
-
-This will help me understand my role and how I can best support you in your efforts. I appreciate the effort to work with me! 
-
-Please let me know how best I can work with you, as well. Collaboration works both ways.
-
-## Anything else? 
+- ⚡ Fun fact: I used to be a sumo wrestler, and I won second place in state-wide tournaments twice.
 
 Reach out, and let's chat!
