@@ -10,7 +10,6 @@ I am based out of Texas. If you want to connect with me or learn more about me, 
 
 - 🔭 I’m currently working on losing weight and getting stronger.
 - 🌱 I’m currently learning how to cook.
-- 👯 I’m looking to collaborate on GHAS deals!
 - 🤔 I’m looking for help with starting a business.
 - 💬 Ask me about python, security, the car market, electric cars, travel, board games, anime, mechanical keyboards, PC building, China, Chinese food, weight lifting, and pickleball.
 - 📫 How to reach me: reach out to me on LinkedIn, Discord, Slack, or BlueSky!
